@@ -3,6 +3,7 @@ import './App.css';
 
 import Example from "./Pages/Example";
 import ExampleOne from "./Pages/ExampleOne";
+import BisneyBlus from "./Pages/BisneyBlus";
 
 function App() {
   return (
@@ -10,6 +11,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Example />} />
         <Route path="/exampleone" element={<ExampleOne />} />
+        <Route path="/bisneyblus" element={<BisneyBlus />} />
+
         {/* Example */}
       </Routes>
     </BrowserRouter>
