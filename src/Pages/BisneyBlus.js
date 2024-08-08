@@ -37,36 +37,63 @@ export default function BisneyBlus(){
         <>
             <Navbar />
             <div id="BisneyBlus">
-                <a href="https://google.com">
-                    <img src={image1} />
-                </a>
+            <a href="https://google.com"></a> 
+                <img src={image1} />
+                <a href="https://google.com"></a>
                 <img src={image2} />
+                <a href="https://google.com"></a>
                 <img src={image3} />
+                <a href="https://vimeo.com/690993518"></a>
                 <img src={image4} />
+                <a href="https://google.com"></a>
                 <img src={image5} />
+                <a href="https://google.com"></a>
                 <img src={image6} />
+                <a href="https://google.com"></a>
                 <img src={image7} />
+                <a href="https://google.com"></a>
                 <img src={image8} />
+                <a href="https://google.com"></a>
                 <img src={image9} />
+                <a href="https://google.com"></a>
                 <img src={image10} />
+                <a href="https://google.com"></a>
                 <img src={image11} />
+                <a href="https://google.com"></a>
                 <img src={image12} />
+                <a href="https://google.com"></a>
                 <img src={image13} />
+                <a href="https://google.com"></a>
                 <img src={image14} />
+                <a href="https://google.com"></a>
                 <img src={image15} />
+                <a href="https://google.com"></a>
                 <img src={image16} />
+                <a href="https://google.com"></a>
                 <img src={image17} />
+                <a href="https://google.com"></a>
                 <img src={image18} />
+                <a href="https://google.com"></a>
                 <img src={image19} />
+                <a href="https://google.com"></a>
                 <img src={image20} />
+                <a href="https://google.com"></a>
                 <img src={image21} />
+                <a href="https://google.com"></a>
                 <img src={image22} />
+                <a href="https://google.com"></a>
                 <img src={image23} />
+                <a href="https://google.com"></a>
                 <img src={image24} />
+                <a href="https://google.com"></a>
                 <img src={image25} />
+                <a href="https://google.com"></a>
                 <img src={image26} />
+                <a href="https://google.com"></a>
                 <img src={image27} />
+                <a href="https://google.com"></a>
                 <img src={image28} />
+                <a href="https://google.com"></a>
             </div>
         </>
     )
