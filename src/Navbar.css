@@ -1,6 +1,6 @@
 /* IDs */
 #navbar{
-    background-color: grey;
+    background-color: white;
     height: 100px;
     width: 100vw;
     position: static;
@@ -13,7 +13,6 @@
     border-radius: 100%;
     height: 75px;
     width: 75px;
-    background-color: black;
     margin-top: 10px;
     margin-left: 10px;
 }
@@ -32,6 +31,6 @@
 }
 
 .navbar_font{
-    color: white;
+    color: blac;
     text-decoration: none;
 }
