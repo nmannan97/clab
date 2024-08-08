@@ -1,7 +1,9 @@
 /* IDs */
 #exampleone{
-    background-color: black;
-    min-height: 110vh;
+    background-color: rgb(255, 255, 255);
 }
 
+#exampleone_img1{
+    width: 100vw;
+}
 /* ClassNames */
